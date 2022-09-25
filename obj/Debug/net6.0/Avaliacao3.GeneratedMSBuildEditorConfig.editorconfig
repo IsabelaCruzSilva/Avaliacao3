@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Avaliacao3
+build_property.RootNamespace = Avaliacao3
+build_property.ProjectDir = C:\Users\bella\OneDrive\Documents\escola\2022\LP3\Avaliacao3\Avaliacao3\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bella\OneDrive\Documents\escola\2022\LP3\Avaliacao3\Avaliacao3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Estabelecimentos/Cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWJlbGVjaW1lbnRvc1xDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Estabelecimentos/Confirmacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWJlbGVjaW1lbnRvc1xDb25maXJtYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Estabelecimentos/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWJlbGVjaW1lbnRvc1xEZXRhbGhlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Estabelecimentos/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWJlbGVjaW1lbnRvc1xFeGNsdWlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Estabelecimentos/Gerenciamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWJlbGVjaW1lbnRvc1xHZXJlbmNpYW1lbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Estabelecimentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWJlbGVjaW1lbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bella/OneDrive/Documents/escola/2022/LP3/Avaliacao3/Avaliacao3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-we9dbv96fm

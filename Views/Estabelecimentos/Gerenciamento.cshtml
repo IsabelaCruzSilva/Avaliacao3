@@ -1,0 +1,24 @@
+@model List<Avaliacao3.ViewModels.EstabelecimentoViewModel>
+
+    @{
+        ViewData["Title"] = "Lojas e Kiosques";
+    }
+    
+    <h1>Gerenciamento</h1>
+    
+    @if(Model.Count == 0)
+    {
+        <p>Não há nenhuma loja ou kiosque</p>
+    }
+    else
+    {
+        <hr>
+        @foreach(var estabelecimento in Model)
+        {
+            <h3>@estabelecimento.Nome</h3>
+            <a href="Detalhes/@estabelecimento.Id">Detalhes</a>
+            <span>&nbsp;&nbsp;</span>
+            <a href="Excluir/@estabelecimento.Id">Excluir</a>
+            <hr>
+        }
+    }
